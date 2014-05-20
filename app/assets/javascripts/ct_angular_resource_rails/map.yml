@@ -1,0 +1,10 @@
+---
+module:
+  name: "ngResource"
+uis:
+  - name: $resource
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
